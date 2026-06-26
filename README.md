@@ -1,4 +1,4 @@
-<img width="708" height="613" alt="image" src="https://github.com/user-attachments/assets/ea67a854-57b7-4ac9-b471-cf229965e412" /># analisis-sentimen-starbucks
+analisis-sentimen-starbucks
 proyek Python untuk analisis sentimen dan data mining berdasarkan ulasan aplikasi Starbucks Indonesia. Repository ini mencakup proses pengumpulan data, preprocessing, eksplorasi data (EDA), analisis sentimen, visualisasi, serta dokumentasi hasil analisis.
 <img width="1018" height="372" alt="image" src="https://github.com/user-attachments/assets/5f1f3b0b-6516-460f-89a1-8d685390e89f" />
 <img width="832" height="611" alt="image" src="https://github.com/user-attachments/assets/435028f8-22e3-4169-8625-ac44f33adfca" />
